@@ -1,3 +1,3 @@
 # Share Builder
 
-An app for learning about finance
+An app built on with the MERN stack for learning about finance.
